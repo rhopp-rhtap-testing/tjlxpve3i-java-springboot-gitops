@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tjlxpve3i-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/tjlxpve3i-java-springboot-gitops
